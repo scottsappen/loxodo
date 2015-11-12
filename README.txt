@@ -23,3 +23,16 @@ Quickstart:
 ./loxodo.py -i
 	runs Loxodo in CLI Interactive mode
 
+
+Examples:
+---------
+Once you unlock your safe, you can run various commands:
+help
+
+show <name>
+show Apple
+
+ls <name>
+ls <Apple Admin Login>
+
+
